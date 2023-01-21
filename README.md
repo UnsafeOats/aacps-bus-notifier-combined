@@ -14,5 +14,5 @@ Both implementations generally work the same way:
   3) Compare the current outage information with the previously collected outage information and send out text messages to all parents for each bus that has had a change in status
 
 The current differences in implementation are:
-  - **Python**:  Currently checks the bus outage site at specifically scheduled times throughout the day
-  *- *Rust**:  Checks the bus outage site every 5 mins for more responsive notifications
+  * __Python:__  Currently checks the bus outage site at specifically scheduled times throughout the day
+  * __Rust:__  Checks the bus outage site every 5 mins for more responsive notifications
