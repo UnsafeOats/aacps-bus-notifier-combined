@@ -1,0 +1,9 @@
+[submodule "python"]
+	path = python
+	url = git@github.com:gnoat/aacps-bus-notifications.git
+[submodule "aacps-bus-notifier-blazingly-fast"]
+	path = aacps-bus-notifier-blazingly-fast
+	url = git@github.com:gnoat/aacps-bus-notifier-blazingly-fast.git
+[submodule "rust"]
+	path = rust
+	url = git@github.com:gnoat/aacps-bus-notifier-blazingly-fast.git
